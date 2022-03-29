@@ -171,9 +171,10 @@ figcaption {
 }
 
 .content {
-    height: 10em;
-    padding: 2px; /* adjust to taste */
-    overflow: hidden    
+    height: 12em;
+    padding: 4px; /* adjust to taste */
+    overflow: hidden;    
+    background-color: #000000
 }
 
 .banner {
