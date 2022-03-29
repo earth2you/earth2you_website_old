@@ -15,7 +15,7 @@ git pull
 git add --all
 git commit -m "update"
 echo -e "Pushing to earth2you.github.io"
-git push origin master
+git push origin main
 
 echo -e "Done"
 
