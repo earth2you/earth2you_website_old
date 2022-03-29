@@ -37,7 +37,7 @@ h3 {
 .menu {
     border: none;
     margin-bottom: 0px;
-    background-color: #ffffff ;
+    background-color: #000000 ;
     color: #587997 ;
     position: relative;
     min-height: 70px;
@@ -87,11 +87,11 @@ footer {
 }
 
 footer a {
-    color: #fff;
+    color: #000;
     text-shadow: 0 1px 0 rgba(0, 0, 0, 0.2);
 }
 footer a:hover {
-    color: #fff;
+    color: #000;
     text-shadow: 0 1px 0 rgba(0, 0, 0, 0.2);
     text-decoration: underline;
 }
@@ -127,7 +127,7 @@ p.pub-date-author {
 }
 
 .card-title {
-    color: #ffffff;
+    color: #000000;
 }
 
 img {
@@ -135,7 +135,7 @@ img {
 }
 
 figure {
-   background-color: #fff;
+   background-color: #000;
    padding: 10px;
    font-size: .875em;
    display: table;
@@ -150,7 +150,7 @@ figure img {
 figcaption {
     display: table-caption;
     caption-side: bottom;
-    background: #fff;
+    background: #000;
     padding: 0 20px 2px;
 }​
 
@@ -191,6 +191,6 @@ figcaption {
 }
 
 .alert-blue {
-    background-color: #ffffff;
+    background-color: #000000;
 }
 
