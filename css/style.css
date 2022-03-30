@@ -8,6 +8,10 @@ h1 {
     margin-bottom: 21px;
     color: #ffffff;
 }
+h2 {
+    font-size: 16pt;
+    color: #ffffff;
+}
 h3 {
     font-size: 16pt;
     margin-bottom: 15px;
@@ -135,11 +139,11 @@ p.pub-date-author {
 
 .card-caption {
     padding: 9px 0px;
-    color: #333333;
+    color: #ffffff;
 }
 
 .card-title {
-    color: #000000;
+    color: #ffffff;
 }
 
 img {
@@ -183,6 +187,7 @@ figcaption {
     font-size: 34px;
     font-weight: 300;
     background-color: #000000;
+    color: #ffffff;
 }
 
 .content {
