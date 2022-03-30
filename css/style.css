@@ -38,7 +38,7 @@ h3 {
 .menu {
     border: none;
     margin-bottom: 0px;
-    background-color: #000000 ;
+    background-color: #000000;
     color: #587997 ;
     position: relative;
     min-height: 70px;
@@ -72,19 +72,21 @@ h3 {
 
 .fa-ul {
     margin-top: 10px;
+    background-color: #000000;
 }
 
 .fa-ul li {
     margin-bottom: 5px;
+    background-color: #000000;
 }
 
 footer {
     width: 100%;
     margin-top: 100px;
-    background-color: #587997;
+    background-color: #000000;
     padding-top: 10px;
     padding-bottom: 10px;
-    color: #000000;
+    color: #ffffff;
 }
 
 footer a {
@@ -157,6 +159,7 @@ figcaption {
 
 .container-fluid {
     padding: 0;
+    background-color: #000000;
 }
 
 .altmetric-embed img {
@@ -199,5 +202,9 @@ figcaption {
 }
 
 .body{
+    background-color: #000000;
+}
+
+.main{
     background-color: #000000;
 }
