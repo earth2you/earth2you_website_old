@@ -1,21 +1,21 @@
 container {
     font-size: 16pt;
     background-color: #000000;
-    color: #ffffff;
+    color: #fff;
 }
 
 h1 {
     margin-bottom: 21px;
-    color: #ffffff;
+    color: #fff;
 }
 h2 {
     font-size: 16pt;
-    color: #ffffff;
+    color: #fff;
 }
 h3 {
     font-size: 16pt;
     margin-bottom: 15px;
-    color: #ffffff;
+    color: #fff;
 }
 
 .breadcrumb {
@@ -185,9 +185,9 @@ figcaption {
     padding: 50px 0px;
     line-height: 60px;
     font-size: 38px;
-    font-weight: 300;
+    font-weight: 700;
     background-color: #000000;
-    color: #ffffff;
+    color: #fff;
 }
 
 .content {
@@ -195,7 +195,7 @@ figcaption {
     padding: 4px; /* adjust to taste */
     overflow: hidden;    
     background-color: #000000;
-    color: #ffffff;
+    color: #fff;
 }
 
 .banner {
