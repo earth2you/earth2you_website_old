@@ -80,17 +80,19 @@ h3 {
 .fa-ul {
     margin-top: 10px;
     background-color: #000000;
+    color: #ffffff;
 }
 
 .fa-ul li {
     margin-bottom: 5px;
     background-color: #000000;
+    color: #ffffff;
 }
 
 footer {
     width: 100%;
     margin-top: 50px;
-    background-color: #a9a9a9;
+    background-color: #000000;
     padding-top: 5px;
     padding-bottom: 5px;
     color: #ffffff;
@@ -167,6 +169,7 @@ figcaption {
 .container-fluid {
     padding: 0;
     background-color: #000000;
+    color: #ffffff;
 }
 
 .altmetric-embed img {
@@ -187,6 +190,7 @@ figcaption {
     padding: 4px; /* adjust to taste */
     overflow: hidden;    
     background-color: #000000;
+    color: #ffffff;
 }
 
 .banner {
@@ -210,8 +214,10 @@ figcaption {
 
 .body{
     background-color: #000000;
+    color: #ffffff;
 }
 
 .main{
+    color: #ffffff;
     background-color: #000000;
 }
